@@ -1,0 +1,27 @@
+# Fichiers de sortie des scripts
+*.txt
+modified-files.txt
+modi.txt
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
